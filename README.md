@@ -21,5 +21,5 @@ I'm Taha, iOS Developer.
 
 
 ## Contact
-- [EmailMe](mailto:taha.nagy06@gmail.com)
+- [taha.nagy06@gmail.com](mailto:taha.nagy06@gmail.com)
 - [TahaMahmoud](https://www.linkedin.com/in/engtahamahmoud/) on LinkedIn
