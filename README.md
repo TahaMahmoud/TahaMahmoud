@@ -10,9 +10,9 @@ I'm Taha, iOS Developer.
 
 ## Skills
 -	👨‍💻 Swift, UIKit, SwiftUI
--	⚙️ MVC, MVP, VIPER, MVVM-C, RxSwift, Combine
+-	⚙️ MVC, MVP, VIPER, VIP-C, MVVM-C, RxSwift, Combine
 -	👨‍💻 CoreData, Realm 
--	⚙️ Knowledge in Unit Testing
+-	⚙️ Unit Testing
 -	💽 Memory Management, Concurrency 
 -	⚙️ Git, GitFlow, CI/CD
 -	👨‍💻 Firebase
