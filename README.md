@@ -4,9 +4,9 @@
 </h1>
 
 ## Hey! 👋
-I'm Taha, iOS Developer.
+I'm Taha, iOS Engineer.
 
-- 🧭 iOS Developer at [Artificial Intelligence Technology Center - MUST University](https://www.must.edu.eg)
+- 🧭 Senior iOS Engineer at [Klivvr - By Orascom Financial Holding](https://www.klivvr.com)
 
 ## Skills
 -	👨‍💻 Swift, UIKit, SwiftUI
