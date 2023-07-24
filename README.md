@@ -6,7 +6,7 @@
 ## Hey! 👋
 I'm Taha, iOS Engineer.
 
-- 🧭 Senior iOS Engineer at [Klivvr - By Orascom Financial Holding](https://www.klivvr.com)
+- 🧭 Senior iOS Engineer at [Klivvr | B.Tech](https://btech.com/)
 
 ## Skills
 -	👨‍💻 Swift, UIKit, SwiftUI
