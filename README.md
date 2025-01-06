@@ -6,7 +6,7 @@
 ## Hey! 👋
 I'm Taha, iOS Engineer.
 
-- 🧭 Senior iOS Engineer at [b_labs | B.Tech](https://btech.com/)
+- 🧭 Senior iOS Engineer at [Yassir](https://yassir.com/)
 
 ## Skills
 -	👨‍💻 Swift, UIKit, SwiftUI
